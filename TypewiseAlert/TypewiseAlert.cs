@@ -76,7 +76,7 @@ namespace TypewiseAlert
       switch(breachType) {
         case BreachType.TOO_LOW:
           Console.WriteLine("To: {}\n", recepient);
-          Console.WriteLine("Hi, the temperature is too low\n");
+          Console.WriteLine("The temperature is too low \n");
           break;
         case BreachType.TOO_HIGH:
           Console.WriteLine("To: {}\n", recepient);
